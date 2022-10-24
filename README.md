@@ -49,6 +49,18 @@ Linguagens de programação favoritas (máx 2): Javascript, Python
 
 -------------------------------------------
 
+
+Nome Completo: Paulo Vinícius da Silva Cardoso
+
+Ano de ingresso: 2019
+
+No de matrícula: 20191D12GR0501
+
+Número de disciplinas matriculados no semestre: 14
+
+Linguagens de programação favoritas (máx 2): Javascript, Java
+
+-------------------------------------------
 Nome Completo: Rafael Nascimento Vilaça de Araujo
 
 Ano de ingresso: 2018
